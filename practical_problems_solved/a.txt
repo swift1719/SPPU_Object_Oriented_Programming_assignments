@@ -1,0 +1,9 @@
+This is First Program of File Handling.
+File Handling is totally depends on fstream class library.
+File handling may be done with help of ifstream & ofstream.
+An ifstream class is is for reading data from file.
+An ofstream class is is for writing data onto file.
+An ofstream class is is for writing data onto file.
+
+
+
